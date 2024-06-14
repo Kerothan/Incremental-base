@@ -9,6 +9,12 @@ Basic components will include
 - prestige resources from reset
 - permanant upgrades purchased with prestige
 - time calculations per 'tick'
-- offline progress
+- config file to customize names, upgrade costs, and cost increase ratios
 
-Resource names, upgrade names, upgrade costs, and upgrade cost increase ratio will be determined in a config.js file
+Components to be added in future releases
+- image support
+- offline progress
+- example projects
+
+Out of scope
+- online save data storage
