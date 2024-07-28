@@ -1,5 +1,7 @@
 # Incremental-base
 
+## Project overview
+
 This work in progress is intended to be a starting point for developing idle incremental games using React and Next.js
 
 Basic components will include
@@ -18,3 +20,7 @@ Components to be added in future releases
 
 Out of scope
 - online save data storage
+
+## Development server
+
+Run `npm run dev` to load a dev server. Navigate to `http://localhost:3000/`. The app will reload if any source files are changed.
