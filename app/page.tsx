@@ -1,5 +1,5 @@
 import Image from "next/image";
-import GameMain from "./game/gamemain";
+import GameMain from "./game/controllers/gamemain";
 
 export default function Home() {
   return (

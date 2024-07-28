@@ -1,0 +1,12 @@
+{
+    "res1gen":{
+        "name":"Resource 1 generator",
+        "cost":{
+            "res1":5
+        },
+        "effect":{
+            "res1":1
+        },
+        "ratio":0.1
+    }
+}
